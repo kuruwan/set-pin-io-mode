@@ -1,0 +1,16 @@
+{
+ "package": "Set pin IO mode",
+ "language": "python",
+ "author": "Farmbot.io",
+ "description": "Set a pin's input/output mode.",
+ "version": "0.1.0",
+ "min_os_version_major": 6,
+ "url": "https://raw.githubusercontent.com/FarmBot-Labs/set-pin-io-mode/master/manifest.json",
+ "zip": "https://github.com/FarmBot-Labs/set-pin-io-mode/archive/master.zip",
+ "executable": "python",
+ "args": ["set-pin-io-mode-master/set_pin_io_mode.py"],
+  "config": [
+   {"name": "pin_number", "label": "pin number", "value": 57 },
+   {"name": "pin_io_mode", "label": "INPUT: 0, OUTPUT: 1, INPUT_PULLUP: 2", "value": 0 }
+ ]
+}
