@@ -2,7 +2,7 @@
 Farmware to set the input/ouput mode of an Arduino pin.
 
 ## Install
-[Farmware page](https://my.farm.bot/farmware) install URL:
+[Farmware page](https://my.farm.bot/app/farmware) install URL:
 ```
 https://raw.githubusercontent.com/FarmBot-Labs/set-pin-io-mode/master/manifest.json
 ```
