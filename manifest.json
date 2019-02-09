@@ -1,9 +1,9 @@
 {
  "package": "Set pin IO mode",
  "language": "python",
- "author": "Farmbot.io",
+ "author": "FarmBot, Inc.",
  "description": "Set a pin's input/output mode.",
- "version": "0.1.0",
+ "version": "0.1.1",
  "min_os_version_major": 6,
  "url": "https://raw.githubusercontent.com/FarmBot-Labs/set-pin-io-mode/master/manifest.json",
  "zip": "https://github.com/FarmBot-Labs/set-pin-io-mode/archive/master.zip",
