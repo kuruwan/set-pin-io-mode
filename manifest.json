@@ -5,8 +5,8 @@
  "description": "Set a pin's input/output mode.",
  "version": "0.1.1",
  "min_os_version_major": 6,
- "url": "https://raw.githubusercontent.com/FarmBot-Labs/set-pin-io-mode/master/manifest.json",
- "zip": "https://github.com/FarmBot-Labs/set-pin-io-mode/archive/master.zip",
+ "url": "https://raw.githubusercontent.com/kuruwan/set-pin-io-mode/master/manifest.json",
+ "zip": "https://github.com/kuruwan/set-pin-io-mode/archive/master.zip",
  "executable": "python",
  "args": ["set-pin-io-mode-master/set_pin_io_mode.py"],
   "config": [
